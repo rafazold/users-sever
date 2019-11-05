@@ -1,0 +1,51 @@
+[
+  {
+    "email": "lilach@gmail.com",
+    "password": "1234",
+    "birthDate": "4/8/1992",
+    "adress": "tzurit-25",
+    "city": "even-yehude"
+  },
+  {
+    "email": "iuli@walla.com",
+    "password": "6789",
+    "birthDate": "14/12/1978",
+    "adress": "shalom-8",
+    "city": "natanya"
+  },
+  {
+    "email": "omer@gmail.com",
+    "password": "5555",
+    "birthDate": "10/08/1991",
+    "adress": "green-5",
+    "city": "LA"
+  },
+  {
+    "email": "lilachA@gmail.com",
+    "password": "12d34",
+    "birthDate": "4/8/1992",
+    "adress": "tzurit-25",
+    "city": "even-yehude"
+  },
+  {
+    "email": "stefan@yahoo.com",
+    "password": "0987",
+    "birthDate": "7/7/1980",
+    "adress": "hamavdil-6",
+    "city": "ramat-gan"
+  },
+  {
+    "email": "pedro@yahoo.com",
+    "password": "0987",
+    "birthDate": "7/7/1980",
+    "adress": "casa",
+    "city": "ciudad"
+  },
+  {
+    "email": "johndoe123@yahoo.com",
+    "password": "0987",
+    "birthDate": "7/7/1980",
+    "adress": "casa",
+    "city": "ciudad"
+  }
+]
